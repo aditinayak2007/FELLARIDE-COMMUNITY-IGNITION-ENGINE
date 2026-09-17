@@ -127,3 +127,4 @@ Instead of treating all users equally or relying on random marketing, the system
 │       ├── PeopleIntelligence.js   # Screen 4: Candidate table & rationale dossier
 │       └── ButterflyEffect.js      # Screen 5: Community ignition cascade simulator
 ```
+
