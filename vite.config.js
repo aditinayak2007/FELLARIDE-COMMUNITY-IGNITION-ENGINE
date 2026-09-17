@@ -7,6 +7,7 @@ export default defineConfig({
     port: 3000,
     open: true,
   },
+  base: '/FELLARIDE-COMMUNITY-IGNITION-ENGINE/' ,
   build: {
     outDir: 'dist',
   },
